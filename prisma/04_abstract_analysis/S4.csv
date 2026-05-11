@@ -1,0 +1,32 @@
+﻿title,source,search_query,year,note
+Quantum Error Mitigation With Artificial Neural Network,IEEE,"""Quantum error mitigation"" AND ""Machine Learning""; ""Quantum error mitigation"" AND ""Neural""; ""Quantum error mitigation"" AND ""AI""; ""Quantum error mitigation"" AND ""Artificial Intelligence""",2020,
+Machine learning for practical quantum error mitigation.,Springer,"""QEM"" and ""ML""; ""QEM"" and ""Machine learning""; ""QEM"" and ""Neural""; ""QEM"" and ""Neural Network""; ""Quantum error mitigation"" and ""Neural""",2024,
+A Machine Learning-Based Error Mitigation Approach for Reliable Software Development on IBM’s Quantum Computers,ACM,"- ""QEM"" ""ML""; - ""QEM"" ""Machine Learning""; - ""Quantum error Mitigation"" ""ML""; - ""Quantum error Mitigation"" ""Machine Learning""",2024,
+Machine learning for quantum error mitigation on NISQ devices,Google Scholar,"allintitle: ""quantum error mitigation"", ""Machine Learning""",2024,- unibo; https://amslaurea.unibo.it/id/eprint/32365/
+Neural Network Enhanced Robustness for Noisy Quantum Applications,IEEE,"quantum error mitigation AND ""Neural""; quantum error mitigation AND ""Neural Network""",2024,
+Adaptive neural network for quantum error mitigation,Springer,"""QEM"" and ""ML""; ""QEM"" and ""Machine learning""; ""QEM"" and ""Deep Learning""; ""QEM"" and ""Neural""; ""QEM"" and ""Neural Network""; ""Quantum error mitigation"" and ""Deep Learning""; ""Quantum error mitigation"" and ""Neural""",2025,
+i-QER: An Intelligent Approach Towards Quantum Error Reduction,ACM,"- ""Quantum error Mitigation"" ""ML""; - ""Quantum error Mitigation"" ""Machine Learning""",2022,
+Error mitigation in variational quantum eigensolvers using tailored probabilistic machine learning,Google Scholar,"allintitle: ""quantum error mitigation"", ""Machine Learning""",2024,aps
+SSQEM: Semi-Supervised Quantum Error Mitigation,IEEE,"""Quantum error mitigation"" AND ""Machine Learning""; ""Quantum error mitigation"" AND ""Deep Learning""",2022,
+Quantum state reconstruction in a noisy environment via deep learning,Springer,"""Quantum error mitigation"" and ""Machine Learning""; ""Quantum error mitigation"" and ""Deep Learning""; ""Quantum error mitigation"" and ""Neural""",2024,
+Quantum error mitigation via machine learning,Google Scholar,"allintitle: ""quantum error mitigation"", ""Machine Learning""",2024,koasas.kaist.ac.kr
+Quantum Error Mitigation for Quantum State Tomography,IEEE,"""QEM"" AND ""Neural""; ""Quantum error mitigation"" AND ""Neural""",2021,
+A direct error correction method for quantum machine learning,Springer,"""Quantum error mitigation"" and ""ML""; ""Quantum error mitigation"" and ""Machine Learning""",2023,
+Quantum readout error mitigation via deep learning,Google Scholar,"allintitle: ""quantum error mitigation"", ""Deep Learning""",2024,iop; iopscience.iop.org
+Diffusion-Based Quantum Error Mitigation Using Stochastic Differential Equation,IEEE,"""Quantum error mitigation"" AND ""Neural""",2024,
+Synergy between noisy quantum computers and scalable classical deep learning for quantum error mitigation,Springer,"""Quantum error mitigation"" and ""Machine Learning""; ""Quantum error mitigation"" and ""Deep Learning""; ""Quantum error mitigation"" and ""Neural""",2024,
+Quantum Error Mitigation with Deep Learning and Sequence Models,Google Scholar,"allintitle: ""quantum error mitigation"", ""Deep Learning""",2024,uu.nl
+Quantum Error Mitigation via Autoencoder Neural Networks,IEEE,"""Quantum error mitigation"" AND ""Machine Learning""; ""Quantum error mitigation"" AND ""Neural""",2025,
+Echo-evolution data generation for quantum error mitigation via neural networks,Springer,"""QEM"" and ""Machine learning""; ""QEM"" and ""Neural""; ""Quantum error mitigation"" and ""Neural""",2024,
+Variational Quantum‐Neural Hybrid Error Mitigation,Google Scholar,"allintitle: ""quantum error mitigation"", ""Neural""",2023,wiley.com
+Adaptive Quantum Readout Error Mitigation with Transfer Learning,IEEE,"""Quantum error mitigation"" AND ""Machine Learning""; ""Quantum error mitigation"" AND ""Neural""",2025,
+Noise-agnostic quantum error mitigation with data augmented neural models,Springer,"""Quantum error mitigation"" and ""Machine Learning""; ""Quantum error mitigation"" and ""Neural""",2025,
+Machine learning for practical quantum error mitigation,Google Scholar,"- ""QEM"" AND ""ML""; - ""QEM"" ""Artificial Intelligence""; - ""Quantum error Mitigation"" ""ML""; - ""Quantum error Mitigation"" ""Machine Learning""; - ""Quantum error Mitigation"" ""Neural""",2024,
+Predictive Time-Series Analysis of Single-Qubit Quantum Circuit Outcomes for a Superconducting Quantum Computer: Forecasting Error Patterns,IEEE,"""Quantum error mitigation"" AND ""Artificial intelligence""",2025,
+Quantum error mitigation in the regime of high noise using deep neural network: Trotterized dynamics,Springer,"""Quantum error mitigation"" and ""Machine Learning""; ""Quantum error mitigation"" and ""Neural""",2024,
+Noise-agnostic quantum error mitigation with data augmented neural models,Google Scholar,"""Quantum error Mitigation"" ""Machine Learning""",2025,Springer랑 중복임
+QUIET: A Tool for Sampling-Based Quantum Noise Error Mitigation,IEEE,"""QEM"" AND ""ML""; ""QEM"" AND ""Machine Learning""; ""Quantum error mitigation"" AND ""ML""; ""Quantum error mitigation"" AND ""Machine Learning""",2025,
+Error mitigation using quantum neural Q network in secure qutrit distribution on Cleve's protocol on quantum computing,Springer,"""Quantum error mitigation"" and ""Neural""",2024,
+Data-Driven Reliability Models of Quantum Circuit: From Traditional ML to Graph Neural Network,IEEE,"""Quantum error mitigation"" AND ""ML""; ""Quantum error mitigation"" AND ""Machine Learning""; ""Quantum error mitigation"" AND ""Neural""",2023,
+Neural Error Mitigation of Near-Term Quantum Simulations,Springer,"""Quantum error mitigation"" and ""Neural""",2022,
+Noise-Mitigated Variational Quantum Eigensolver with Pre-training and Zero-Noise Extrapolation,IEEE,"quantum error mitigation AND ""Neural""",2025,
