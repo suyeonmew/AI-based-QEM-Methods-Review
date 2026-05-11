@@ -9,7 +9,7 @@ prisma/
 ├── 01_keyword_search/      S1.csv  — raw search results
 ├── 02_title_check/         S2.csv  — kept only titles containing "quantum"
 ├── 03_duplicate_removal/   S3.csv  — duplicates across databases removed
-└── 04_abstract_analysis/   S4.csv  — kept after title & abstract review
+└── 04_abstract_analysis/   S4.csv  — final set included in the review
 ```
 
 Each stage's CSV contains the publications that passed that step.
@@ -34,11 +34,11 @@ Each stage's CSV contains the publications that passed that step.
 | S1 | Keyword search | Pulled all records returned by the four databases for the query above. |
 | S2 | Title check | Removed records whose titles do not contain the word *quantum*. |
 | S3 | Duplicate removal | Removed duplicate records appearing in more than one database. |
-| S4 | Abstract analysis | Reviewed titles and abstracts; kept records relevant to AI-based QEM. |
+| S4 | Abstract analysis | Reviewed titles, abstracts, and full texts; kept records meeting the inclusion criteria below. |
 
 ## 3) PRISMA workflow and screening pipeline
 
-The four selection stages above operationalize the **Identification** and **Screening** phases of PRISMA. The figure below summarizes the full pipeline including the Eligibility phase (full-text review) and the final Included set.
+The four selection stages above map to the standard PRISMA phases. The figure below summarizes the full pipeline.
 
 ![PRISMA flow](figs/prisma_flow.png)
 
@@ -49,16 +49,15 @@ The four selection stages above operationalize the **Identification** and **Scre
 | Identification | S1 — Keyword search | `01_keyword_search/S1.csv` |
 | Screening | S2 — Title check | `02_title_check/S2.csv` |
 | Screening | S3 — Duplicate removal | `03_duplicate_removal/S3.csv` |
-| Eligibility | S4 — Abstract analysis | `04_abstract_analysis/S4.csv` |
+| Included | S4 — Abstract analysis | `04_abstract_analysis/S4.csv` |
 
 Each CSV contains the records that survived the corresponding step.
 
 ## 4) Final inclusion criteria
 
-The records in `04_abstract_analysis/S4.csv` were further screened by full-text review. A study was included in the final analysis only if it met all three:
+The records in `04_abstract_analysis/S4.csv` represent the final set after full-text review. A study was included only if it met all three:
 
 1. Written in English and published in a peer-reviewed journal or conference.
 2. Applies deep learning or machine learning techniques to QEM.
 3. Provides concrete implementation details and experimental results.
-
 
