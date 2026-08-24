@@ -18,16 +18,16 @@ Each stage's CSV contains the publications that passed that step.
 
 ## 1) Search
 
-- **Databases:** IEEE Xplore, ACM Digital Library, SpringerLink, Google Scholar
+- **Databases:** IEEE Xplore, ACM Digital Library, Springer Nature Link, Google Scholar
 - **Period:** January 2021 – May 2026
-- **Query:**
 
-  ```
+**Query**
+
+```text
 ("Quantum Error Mitigation" OR "QEM" OR "Quantum Noise Mitigation")
 AND
 ("Machine Learning" OR "Deep Learning" OR "Neural Network"
  OR "Artificial Intelligence" OR "ML" OR "DL" OR "Neural" OR "AI")
-  ```
 
 ## 2) Selection pipeline
 
@@ -57,7 +57,7 @@ Each CSV contains the records that survived the corresponding step.
 
 ## 4) Final inclusion criteria
 
-The records in `04_abstract_analysis/S4.csv` represent the final set after full-text review. A study was included only if it met all three:
+The records in `04_abstract_analysis/S4.csv` represent the final set after full-text review. A study was included only if it met all four:
 
 1. Written in English and published in a peer-reviewed journal or conference.
 2. Is a full paper — short papers (≤ 4 pages excluding references), abstracts, posters, and workshop papers were excluded. Workshop papers were identified from the manuscript header or venue information.
