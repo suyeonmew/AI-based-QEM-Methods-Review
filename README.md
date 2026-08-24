@@ -42,7 +42,7 @@ AND
 
 The four selection stages above map to the standard PRISMA phases. The figure below summarizes the full pipeline.
 
-![PRISMA flow](figs/prisma_flow.png)
+![PRISMA flow](fig/prisma_flow.png)
 
 ### 3.1) Stage-by-stage breakdown
 
