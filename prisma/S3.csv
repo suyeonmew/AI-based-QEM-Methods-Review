@@ -1,0 +1,287 @@
+﻿merged_from,source_file,authors,year,title,venue,doi,publisher
+google_title.csv,1.csv,"P Aggarwal, A Aggarwal",2022,""" Exploring Trainability and Noise Mitigation in Quantum Machine Learning: Challenges and Solutions""",Journal Homepage: http://ijmr. net. in,,researchgate.net
+springer_title.csv,1.csv,Lennart SchulzeIsabell HeiderJan-Rainer Lahmann,2021,1.3 Technologie - Blogbeitrag: The Quantum GHZ game: a playful introduction to entanglement and error mitigation on real Quantum computers,Digitale Welt,10.1007/s42354-021-0418-5,Springer
+google_title.csv,1.csv,"G Acampora, A Vitiello",2023,A competent memetic algorithm for error mitigation in quantum measurement,2023 IEEE Congress on Evolutionary …,,ieeexplore.ieee.org
+acm_title.csv,1.txt,"Asmar Muqeet, Shaukat Ali, Tao Yue, and Paolo Arcaini",2024,A Machine Learning-Based Error Mitigation Approach for Reliable Software Development on IBM’s Quantum Computers,Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024),https://doi.org/10.1145/3663529.3663830,
+google_title.csv,13.csv,"MA Argoubi, M Trabelssi, M Hilli",2024,A new LaSQEM and LaWQEM approaches for stability and free vibration analysis of a strain gradient elastic Euler-Bernoulli nanobeam,Int. J. Mech. Control,,researchgate.net
+google_title.csv,9.csv,M Trabelssi,2025,A new paradigm for deriving the higher-order 2D Hermite polynomial basis: Part I—a fully integrated WQEM formulation for some fourth-order systems: M …,Acta Mechanica,10.1007/s00707-025-04571-8,Springer
+google_title.csv,9.csv,M Trabelssi,2026,A new paradigm for deriving the higher-order 2D Hermite polynomial basis: Part II-DQM matrix formulation for the LaDQM and SQEM and WQEM GLL for …,Acta Mechanica,10.1007/s00707-025-04544-x,Springer
+google_title.csv,15.csv,Z Cai,2021,A practical framework for quantum error mitigation,arXiv preprint arXiv:2110.05389,,arxiv.org
+google_title.csv,1.csv,"YC Chen, X Huang, P Plecháč, M Sandberg, ...",2024,A quantum error mitigation model for mean-field electron structures,,,diva-portal.org
+google_title.csv,1.csv,"A Mandal, P Ambedkar, HS Syed",2025,A Software-Based Framework for Dynamic Noise Mitigation in Quantum Circuits,Available at SSRN 5370986,,papers.ssrn.com
+google_title.csv,10.csv,"B Zhang, X Yu, W Cai, X Zhou, B Wang, T Zhang",2026,A Structure-Aware Triangular Mesh Simplification Based on Graph Neural Networks (GNNs)-Guided Quadric Error Metrics (QEM),,,preprints.org
+google_title.csv,17.csv,"V Skarlatos, A Informatics, A Kydros, N Konofaos",,"Adaptive Entanglement Purification for Real–Time Quantum Noise Mitigation in Fiber–Optic Qubit Channels, a Monte Carlo Simulation",wscg.zcu.cz,,
+google_title.csv,1.csv,"KF Koenig, F Reinecke, T Wellens",2025,Adaptive folding and noise filtering for robust quantum error mitigation,arXiv preprint arXiv:2505.04463,,arxiv.org
+google_title.csv,1.csv,"W Aguilar-Calvo, S Núñez-Corrales",2025,Adaptive genetic algorithms for pulse-level quantum error mitigation,arXiv preprint arXiv:2501.14007,,arxiv.org
+google_title.csv,1.csv,"S Rao, IR Indu",2026,Adaptive Hardware-Aware Quantum Error Mitigation Policy Selection Framework on Edge Devices,2026 IEEE International Conference for …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"TB Adeniyi, SAP Kumar",2025,Adaptive neural network for quantum error mitigation,Quantum Machine Intelligence,10.1007/s42484-024-00234-4,Springer
+google_title.csv,1.csv,"A Glos, A Nykänen, EM Borrelli, S Maniscalco, ...",2022,Adaptive POVM implementations and measurement error mitigation strategies for near-term quantum devices,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"R Haribaskar, N Jayakumar, ...",2026,Adaptive Quantum Error Mitigation Using Machine Learning in Noisy Intermediate-Scale Quantum Systems,2026 9th International …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"I Henao, JP Santos, R Uzdin",2023,Adaptive quantum error mitigation using pulse-based inverse evolutions,npj Quantum Information,,nature.com
+google_title.csv,1.csv,"SMYI Tomal, A Al Shafin",,Adaptive Quantum Error Mitigation with Reinforcement Learning for NISQ,,,
+google_title.csv,1.csv,"UI Paracha, SMA Rizvi, MMU Gondel, ...",2024,Adaptive Quantum Readout Error Mitigation with Transfer Learning,… on Information and …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"LS Beevi, PMJ Prathap, S Reddy, ...",2024,Advancements in quantum error mitigation strategies for reliable quantum computing on IBM simulators,… on Emerging Smart …,,ieeexplore.ieee.org
+google_title.csv,1.csv,H Zou,2024,Advancing Near-Term Quantum Computing for Chemistry: Multireference-State Error Mitigation,,,odr.chalmers.se
+google_title.csv,12.csv,F Shita,,AI-Enhanced Zero Noise Extrapolation using Residual Neural Networks for Quantum Error Mitigation,AI4X {\textendash} Accelerate Conference 2026,,researchgate.net
+google_title.csv,11.csv,I Rajendiran,2025,AI-Powered Health Insurance Fraud Detection using QEM-FusionNet based SmartGridRand,… International Conference on Artificial Intelligence …,,ieeexplore.ieee.org
+google_title.csv,7.csv,"A Siegel, K Mitarai, K Fujii",2023,Algorithmic error mitigation for quantum eigenvalues estimation,arXiv preprint arXiv:2308.03879,,arxiv.org
+google_title.csv,1.csv,"P Suchsland, F Tacchino, MH Fischer, T Neupert, ...",2021,Algorithmic error mitigation scheme for current quantum processors,Quantum,,quantum-journal.org
+google_title.csv,1.csv,"D Qin, X Xu, Y Li",2022,An overview of quantum error mitigation formulas,Chinese Physics B,10.1088/1674-1056/ac7b1e,iopscience.iop.org
+google_title.csv,3.csv,"TR Jin, YH Shi, ZA Wang, TM Li, K Xu, ...",2024,Back Cover: Purity‐Assisted Zero‐Noise Extrapolation for Quantum Error Mitigation (Adv. Quantum Technol. 12/2024),Advanced Quantum …,10.1002/qute.202470037,Wiley Online Library
+google_title.csv,15.csv,"T Weaving, A Ralli, WM Kirby, PJ Love, S Succi…",2023,Benchmarking noisy intermediate scale quantum error mitigation strategies for ground state preparation of the HCl molecule,Physical Review …,10.1103/PhysRevResearch.5.043054,APS
+google_title.csv,1.csv,"R Majumdar, P Rivero, F Metz, ...",2023,Best practices for quantum error mitigation with digital zero-noise extrapolation,2023 IEEE …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"T Bao, X Ye, H Ruan, C Liu, W Wu, ...",2025,Beyond circuit connections: A non-message passing graph transformer approach for quantum error mitigation,… Conference on Learning …,,openreview.net
+google_title.csv,11.csv,"Z Zhan, Z Tang, L He, J Ding",2025,BIM Lightweight Technology in Water Conservancy Engineering Operation and Maintenance: Improvement of the QEM Algorithm and Construction of the …,Water,,mdpi.com
+google_title.csv,12.csv,"T Saporiti, O Kaikov, V Sazonov, M Tamaazousti",2025,Bogoliubov-Born-Green-Kirkwood-Yvon hierarchy for quantum error mitigation,Physical Review A,10.1103/slbz-3r4b,APS
+google_title.csv,7.csv,"LCG Govia, S Majumder, SV Barron, B Mitchell, A Seif, ...",2025,Bounding the systematic error in quantum error mitigation due to model violation,PRX Quantum,10.1103/PRXQuantum.6.010354,APS
+google_title.csv,3.csv,"GD Agreda, CAD Paredes, MB Samboni, ...",2025,Bridging Theory and Practice in Quantum Game Theory: Optimized Implementation of the Battle of the Sexes with Error Mitigation on NISQ Hardware,2025 IEEE CHILEAN …,,ieeexplore.ieee.org
+google_title.csv,13.csv,"K O'Gorman, F Brink, D Tanner, B Li, Z Jacobs",2021,Calibration of a QEM-EDS system for rapid determination of potassium concentrations of feldspar grains used in optical dating,Quaternary Geochronology,,Elsevier
+google_title.csv,1.csv,S Zhihao,2025,Calibration-Aware Graph Neural Networks for Robust and Scalable Quantum Error Mitigation,,,researchsquare.com
+google_title.csv,1.csv,"S Wang, P Czarnik, A Arrasmith, M Cerezo, ...",2024,Can error mitigation improve trainability of noisy variational quantum algorithms?,Quantum,,quantum-journal.org
+google_title.csv,7.csv,"Z Blunden-Codd, M Tamaazousti",2025,Certification and Classification of Linear Quantum Error Mitigation Methods,arXiv preprint arXiv:2510.26497,,arxiv.org
+google_title.csv,1.csv,"RT de Abreu Pinho, MP Quiñones, ...",2026,Circuit Cutting With QEM-On-The-Go,US Patent App. 18 …,,Google Patents
+google_title.csv,1.csv,"R Shen, T Chen, CH Lee",2025,Circuit structure-preserving error mitigation for High-Fidelity Quantum Simulations,arXiv preprint arXiv:2505.17187,,arxiv.org
+google_title.csv,1.csv,"LM Seifert, S Dangwal, FT Chong, GS Ravi",2024,Clapton: Clifford Assisted Problem Transformation for Error Mitigation in Variational Quantum Algorithms,Proceedings of the 29th …,10.1145/3622781.3674178,dl.acm.org
+google_title.csv,18.csv,A Shaw,2021,Classical-quantum noise mitigation for NISQ hardware,arXiv preprint arXiv:2105.08701,,arxiv.org
+google_title.csv,1.csv,"R Zhang, Y Shao, F Wei, S Cheng, Z Wei, ...",2024,Clifford perturbation approximation for quantum error mitigation,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,14.csv,"D Zhong, W Munizzi, H Chen, WA de Jong",2025,Combining Error Detection and Mitigation: A Hybrid Protocol for Near-Term Quantum Simulation,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"SP Wang, J Mao, E Sakk",2025,"Compilation, Optimization, Error Mitigation, and Machine Learning in Quantum Algorithms",arXiv preprint arXiv:2506.15760,,arxiv.org
+google_title.csv,7.csv,"MSJ Tepaske, DJ Luitz",2023,Compressed quantum error mitigation,Physical Review B,10.1103/PhysRevB.107.L201114,APS
+google_title.csv,1.csv,"VR Pascuzzi, A He, CW Bauer, WA De Jong, ...",2022,Computationally efficient zero-noise extrapolation for quantum-gate-error mitigation,Physical Review A,10.1103/PhysRevA.105.042406,APS
+google_title.csv,1.csv,"M Beisel, J Barzen, F Leymann, F Truger, B Weder, ...",2022,Configurable readout error mitigation in quantum workflows,Electronics,,mdpi.com
+google_title.csv,15.csv,"G Bressanini, Y Ma, H Kwon, MS Kim",2026,Continuous-time noise mitigation in analogue quantum simulation,arXiv preprint arXiv:2601.05952,,arxiv.org
+google_title.csv,1.csv,"K Ju, H Zhong, X Zhang, X Qin, ...",2024,Controllable Quantum Computing Privacy via Inherent Noises and Quantum Error Mitigation,2024 IEEE 23rd …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"OGL Rasmussen, E Kjellgren, P Reinholdt, ...",2025,"Cost-effective scalable quantum error mitigation for tiled Ans\"" atze",arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"L Placidi, I Williams, E Rinaldi, D Mills, ...",2026,Deep Learning Approaches to Quantum Error Mitigation,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"S Cantori, A Mari, D Vitali, S Pilati",2025,Deep-learned error mitigation via partially knitted circuits for the variational quantum eigensolver,arXiv preprint arXiv:2506.04146,,arxiv.org
+google_title.csv,7.csv,"A Zhang, H Xie, Y Gao, JN Yang, Z Bao, Z Zhu, ...",2025,Demonstrating quantum error mitigation on logical qubits,Nature …,,nature.com
+google_title.csv,7.csv,"Y Hirasaki, S Daimon, T Itoko, N Kanazawa, ...",2023,Detection of temporal fluctuation in superconducting qubits for quantum error mitigation,Applied Physics …,,pubs.aip.org
+google_title.csv,1.csv,"JY Shim, J Kim",2024,Diffusion-based quantum error mitigation using stochastic differential equation,2024 IEEE VTS Asia Pacific Wireless …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"HQ Nguyen, XB Nguyen, SYC Chen, ...",2025,Diffusion-inspired quantum noise mitigation in parameterized quantum circuits,Quantum Machine …,10.1007/s42484-025-00276-2,Springer
+google_title.csv,1.csv,"DDK Wayo, RA Dias, L Goliatt, S Groppe",2025,DifGa: Differentiable Error Mitigation for Multi-Mode Gaussian and Non-Gaussian Noise in Quantum Photonic Circuits,arXiv preprint arXiv:2512.23776,,arxiv.org
+google_title.csv,1.csv,MG Garces,2026,Distributed Quantum Error Mitigation: Global and Local ZNE encodings,arXiv preprint arXiv:2602.04981,,arxiv.org
+google_title.csv,7.csv,"M Huo, Y Li",2022,Dual-state purification for practical quantum error mitigation,Physical Review A,10.1103/PhysRevA.105.022427,APS
+springer_title.csv,1.csv,Danila Babukhin,2024,Echo-evolution data generation for quantum error mitigation via neural networks,Quantum Information Processing,10.1007/s11128-024-04603-7,Springer
+google_title.csv,12.csv,"A Shaib, MH Naim, ME Fouda, R Kanj, F Kurdahi",2023,Efficient noise mitigation technique for quantum computing,Scientific Reports,,nature.com
+google_title.csv,1.csv,C Lawrence,2025,Empirical or Simulated? Revisiting Training Data Assumptions in Learning-Based Quantum Error Mitigation,… in Learning-Based Quantum Error Mitigation …,,papers.ssrn.com
+google_title.csv,1.csv,HN Djidjev,2024,Enhancing quantum annealing accuracy through replication-based error mitigation,Quantum Science and Technology,10.1088/2058-9565/ad6eb3,iopscience.iop.org
+google_title.csv,1.csv,"D Lakshanya, V Karthick",2025,Enhancing Quantum Computation Accuracy on Ibm Quantum Hardware Through Advanced Error Mitigation Strategies,,,researchsquare.com
+google_title.csv,3.csv,"M Ho, R Takagi, M Gu",2021,Enhancing quantum models of stochastic processes with error mitigation,arXiv preprint arXiv:2105.06448,,arxiv.org
+google_title.csv,7.csv,"P Li, J Liu, HP Patil, P Hovland, ...",2023,Enhancing virtual distillation with circuit cutting for quantum error mitigation,2023 IEEE 41st …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"Q Li, Y Huang, X Hou, Y Li, X Wang, A Bayat",2024,Ensemble-learning error mitigation for variational quantum shallow-circuit classifiers,Physical Review Research,10.1103/PhysRevResearch.6.013027,APS
+google_title.csv,12.csv,"SY Kim, G San Jhun, YJ Kwon, J Kim…",2025,Entanglement-aware Quantum Error Mitigation for Complex Quantum Circuits,2025 16th International …,,ieeexplore.ieee.org
+google_title.csv,7.csv,"A Dutkiewicz, S Polla, M Scheurer, C Gogolin, ...",2025,Error mitigation and circuit division for early fault-tolerant quantum phase estimation,PRX Quantum,10.1103/mlmy-yskj,APS
+google_title.csv,7.csv,"S Youseff, A Philip, F Hamzah, A Taofeek, B Barnanas, ...",2026,Error Mitigation and Fault-Tolerance Techniques in IBM Quantum Algorithm Development,,,
+google_title.csv,1.csv,G Crognaletti,2026,Error mitigation and performance trade-offs in scaling variational quantum algorithms,,,arts.units.it
+google_title.csv,1.csv,"S Moradi, C Spielvogel, D Krajnc, C Brandner, ...",2023,Error mitigation enables PET radiomic cancer characterization on quantum computers,European Journal of …,10.1007/s00259-023-06362-6,Springer
+ieee_title.csv,23.csv,R. Shaydulin; A. Galda,2021,Error Mitigation for Deep Quantum Optimization Circuits by Leveraging Problem Symmetries,2021 IEEE International Conference on Quantum Computing and Engineering (QCE),10.1109/QCE52317.2021.00046,IEEE
+google_title.csv,1.csv,"A Weidinger, GB Mbeng, W Lechner",2023,Error mitigation for quantum approximate optimization,Physical Review A,10.1103/PhysRevA.108.032408,APS
+google_title.csv,1.csv,"L Botelho, A Glos, A Kundu, JA Miszczak, Ö Salehi, ...",2022,Error mitigation for variational quantum algorithms through mid-circuit measurements,Physical Review A,10.1103/PhysRevA.105.022441,APS
+google_title.csv,1.csv,"J Pazem, MH Ansari",2025,Error mitigation in brainbox quantum autoencoders,Scientific Reports,,nature.com
+google_title.csv,1.csv,"KN Smith, GS Ravi, P Murali, JM Baker, ...",2021,Error mitigation in quantum computers through instruction scheduling,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,5.csv,"G Acampora, A Vitiello",2021,Error mitigation in quantum measurement through fuzzy C-means clustering,2021 IEEE international conference on …,,ieeexplore.ieee.org
+google_title.csv,3.csv,"MU Khan, MA Kamran, WR Khan, MM Ibrahim, MU Ali, ...",2024,Error mitigation in the nisq era: Applying measurement error mitigation techniques to enhance quantum circuit performance,Mathematics,,mdpi.com
+google_title.csv,1.csv,"J Rogers, G Bhattacharyya, MS Frank, ...",2021,Error mitigation in variational quantum eigensolvers using probabilistic machine learning,arXiv preprint arXiv …,,academia.edu
+google_title.csv,1.csv,"T Jiang, J Rogers, MS Frank, O Christiansen, ...",2024,Error mitigation in variational quantum eigensolvers using tailored probabilistic machine learning,Physical Review …,10.1103/PhysRevResearch.6.033069,APS
+google_title.csv,1.csv,"Z Zhou, S Pexton, A Kubica, Y Ding",2025,Error mitigation of fault-tolerant quantum circuits with soft information,arXiv preprint arXiv:2512.09863,,arxiv.org
+google_title.csv,7.csv,OG Maupin,2024,Error Mitigation on a Trapped-Ion Quantum Computer,,,search.proquest.com
+google_title.csv,1.csv,J Miller,2025,Error Mitigation Techniques for Robust Quantum Computing in Financial Modeling: Toward Reliable Quantum Advantage in Near-Term Financial Applications,"… Intelligence, Quantum Computing, Robotics, Science & …",,aireta.org
+google_title.csv,4.csv,"R Palanivel, P Muthulakshmi",2024,Error mitigation using quantum neural Q network in secure qutrit distribution on Cleve's protocol on quantum computing,Quantum Information Processing,10.1007/s11128-024-04342-9,Springer
+google_title.csv,1.csv,"P Czarnik, A Arrasmith, PJ Coles, L Cincio",2021,Error mitigation with Clifford quantum-circuit data,Quantum,,quantum-journal.org
+google_title.csv,6.csv,"Y Kim, LCG Govia, A Dane, E van den Berg, ...",2025,Error mitigation with stabilized noise in superconducting quantum processors,Nature …,,nature.com
+springer_title.csv,15.csv,Dayue QinYanzhu ChenYing Li,2023,Error statistics and scalability of quantum error mitigation formulas,npj Quantum Information,10.1038/s41534-023-00707-7,Springer
+google_title.csv,15.csv,"M Demarty, B Yang, K Hammam…",2026,Error-mitigation aware benchmarking strategy for quantum optimization problems,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,15.csv,"DG A Cabral, B Allen, F Pavošević…",2026,Error-mitigation enabled multicomponent quantum simulations beyond the Born–Oppenheimer approximation,Journal of Chemical …,10.1021/acs.jctc.5c01911,ACS Publications
+google_title.csv,1.csv,"ST Jose, O Simeone",2022,Error-mitigation-aided optimization of parameterized quantum circuits: Convergence analysis,IEEE Transactions on Quantum …,,ieeexplore.ieee.org
+google_title.csv,12.csv,G Du,2022,Evaluating a RISC-V processor running Benchmarks using the QEMU Virtual Platform tool.,,,diva-portal.org
+google_title.csv,23.csv,"E Rosenberg, P Ginsparg…",2022,Experimental error mitigation using linear rescaling for variational quantum eigensolving with up to 20 qubits,Quantum Science & …,10.1088/2058-9565/ac3b37,iopscience.iop.org
+google_title.csv,1.csv,C Jiaxin,,EXPLORATION OF ERROR MITIGATION TECHNIQUES FOR 20-QUBIT QUANTUM SYSTEMS,group.paterek.info,,
+google_title.csv,1.csv,"Y Quek, D Stilck França, S Khatri, JJ Meyer, J Eisert",2024,Exponentially tighter bounds on limitations of quantum error mitigation,Nature Physics,,nature.com
+google_title.csv,1.csv,"S Khatri, Y Quek, J Meyer, D França, ...",2023,Exponentially tighter bounds on quantum error mitigation,APS March Meeting …,,ui.adsabs.harvard.edu
+google_title.csv,1.csv,"J Pérez-Guijarro, A Pages-Zamora, ...",2026,Extension of Clifford data regression methods for quantum error mitigation,IEEE Transactions on …,,ieeexplore.ieee.org
+google_title.csv,15.csv,AS Aasen,2026,Extracting information from noisy quantum systems: Readout-error mitigation and adaptive measurement strategies,,,archiv.ub.uni-heidelberg.de
+google_title.csv,1.csv,"J Zhang, S Li, J Han, Q Zhao, J Zhang, ...",2026,Extrapolative Quantum Error Mitigation in Continuous-Variable Systems beyond the Training Horizon,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,15.csv,"Y Guo, Y Fan, P Liu, S Zhao, Y Jin, X Cai…",2025,False Positives of Observable Evaluation induced by Misapplying of Quantum Readout Error Mitigation with Initialization Error Neglected,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,7.csv,"A Gonzales, AM Babu, J Liu, Z Saleem, ...",2023,Fault tolerant quantum error mitigation,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"GR Melo, WR Cardoso",2025,Feedback-based error mitigation protocol quantifiers analysis in bit-flip and phase-flip quantum channels,The European Physical Journal Plus,10.1140/epjp/s13360-025-06444-4,Springer
+google_title.csv,1.csv,"A Karim, HJ Vallury, M Usman",2026,Fictitious Copy Quantum Error Mitigation,arXiv preprint arXiv:2603.09302,,arxiv.org
+google_title.csv,1.csv,"M Liao, Y Zhu, G Chiribella, Y Yang",2023,Flexible error mitigation of quantum processes with data augmentation empowered neural model,arXiv preprint arXiv:2311.01727,,arxiv.org
+google_title.csv,4.csv,"XM Zhang, W Kong, MU Farooq, MH Yung, G Guo, ...",2021,Generic detection-based error mitigation using quantum autoencoders,Physical Review A,10.1103/PhysRevA.103.L040403,APS
+google_title.csv,1.csv,"G Acampora, M Grossi, A Vitiello",2021,Genetic algorithms for error mitigation in quantum measurement,2021 IEEE congress on …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"S Szachara, S Rajakrishnan, DJ Van Allen, ...",2026,GSC-QEMit: A Telemetry-Driven Hierarchical Forecast-and-Bandit Framework for Adaptive Quantum Error Mitigation,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,15.csv,"T Yoshida, Y Shingu, C Shimada, T Nikuni…",2025,Hardware-efficient quantum annealing with error mitigation via classical shadow,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"S Endo, Z Cai, SC Benjamin, X Yuan",2021,Hybrid quantum-classical algorithms and quantum error mitigation,Journal of the Physical …,10.7566/JPSJ.90.032001,journals.jps.jp
+google_title.csv,1.csv,"DA Bhadre, HP Ghongade",2025,Hybrid quantum-classical variational algorithms for large-scale combinatorial optimization: A novel adaptive ansatz framework with error mitigation,Multidisciplinary Journal of Academic …,,mjapjournal.com
+google_title.csv,1.csv,"NE Belaloui, A Tounsi, AR Khamadja, ...",2026,Improving VQE parameter quality on noisy quantum processors with cost-effective readout error mitigation,Physica …,10.1088/1402-4896/ae2f3e,iopscience.iop.org
+google_title.csv,1.csv,"L Hour, M Go, Y Han",2026,Improving zero-noise extrapolation for quantum-gate error mitigation using a noise-aware folding method,IEEE Access,,ieeexplore.ieee.org
+google_title.csv,15.csv,"G Umbrarescu, O Higgott, DE Browne",2026,Infinite Distance Extrapolation: How error mitigation can enhance quantum error correction,arXiv preprint arXiv:2603.11285,,arxiv.org
+google_title.csv,1.csv,HC Nguyen,2023,Information-theoretic approach to readout-error mitigation for quantum computers,Physical Review A,10.1103/PhysRevA.108.052419,APS
+google_title.csv,3.csv,"C Alexandrou, L Funcke, T Hartung, K Jansen, ...",2021,Investigating the variance increase of readout error mitigation through classical bit-flip correction on IBM and Rigetti quantum computers,arXiv preprint arXiv …,,arxiv.org
+springer_title.csv,1.csv,Hangming ZhangTing LiFei Li,2024,Joint mitigation of quantum gate and measurement errors via the <i>Z</i>-mixed-state expression of the Pauli channel,Quantum Information Processing,10.1007/s11128-024-04428-4,Springer
+google_title.csv,1.csv,"R Singla, R Verschae, H Parthasarathy",2025,Large deviation-based noise mitigation in coupled quantum robotic systems: R. Singla et al.,Quantum Information Processing,10.1007/s11128-025-04982-5,Springer
+google_title.csv,1.csv,"SH Sack, DJ Egger",2024,Large-scale quantum approximate optimization on nonplanar graphs with machine learning noise mitigation,Physical Review Research,10.1103/PhysRevResearch.6.013223,APS
+google_title.csv,1.csv,"B Bar, JP Santos, R Uzdin",2026,Layered KIK quantum error mitigation for dynamic circuits,npj Quantum Information,,nature.com
+google_title.csv,1.csv,"R Wang, X Xu, F Yan, X Xiao, Y Li, X Cai, ...",2024,Leveraging junk information to enhance the quantum error mitigation,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,7.csv,"A Eddins, MC Tran, P Rall",2024,Lightcone shading for classically accelerated quantum error mitigation,arXiv preprint arXiv:2409.04401,,arxiv.org
+google_title.csv,1.csv,"MC Tran, K Sharma, K Temme",2023,Locality and error mitigation of quantum circuits,arXiv preprint arXiv:2303.06496,,arxiv.org
+google_title.csv,1.csv,"S Patil, D Mondal, R Maitra",2025,Machine learning approach toward quantum error mitigation for accurate molecular energetics,The Journal of Chemical Physics,,pubs.aip.org
+google_title.csv,1.csv,"H Liao, DS Wang, I Sitdikov, C Salcedo, A Seif, ...",2024,Machine learning for practical quantum error mitigation,Nature Machine …,,nature.com
+google_title.csv,1.csv,Z White,2025,MANAGING ERRORS IN QUANTUM METROLOGY VIA QUANTUM ERROR MITIGATION,,,jscholarship.library.jhu.edu
+google_title.csv,1.csv,"D Aharonov, O Golan, B Katzir, O Kenneth, ...",2026,Methods and systems for multi-type probabilistic quantum error mitigation,US Patent App. 18 …,,Google Patents
+google_title.csv,4.csv,"S Seo, J Seong, J Bae",2021,Mitigation of crosstalk errors in a quantum measurement and its applications,arXiv preprint arXiv:2112.10651,,arxiv.org
+google_title.csv,5.csv,"JP Blankert, BC BV",2025,Mitigation Potential Geometry for Quantum Computing Submodular Placement of Error Mitigation Under Budget Constraints,,,researchgate.net
+google_title.csv,1.csv,"R LaRose, A Mari, S Kaiser, PJ Karalekas, ...",2022,Mitiq: A software package for error mitigation on noisy quantum computers,Quantum,,quantum-journal.org
+google_title.csv,3.csv,"X Wang, X Feng, L Funcke, T Hartung, K Jansen, ...",2021,Model-independent error mitigation in parametric quantum circuits and depolarizing projection of quantum noise,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"FB Maciejewski, F Baccari, Z Zimborás, ...",2021,Modeling and mitigation of cross-talk effects in readout noise with applications to the Quantum Approximate Optimization Algorithm,Quantum,,quantum-journal.org
+google_title.csv,1.csv,"T Weber, M Riebisch, K Borras, ...",2021,Modelling for quantum error mitigation,2021 IEEE 18th …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"H Zou, E Magnusson, H Brunander, W Dobrautz, ...",2025,Multireference error mitigation for quantum computation of chemistry,Digital …,,pubs.rsc.org
+google_title.csv,15.csv,"M Papič, MG Algaba, E Godinez-Ramirez…",2026,Near-term fermionic simulation with subspace noise tailored quantum error mitigation,npj Quantum …,,nature.com
+google_title.csv,1.csv,"HL Huang, XY Xu, C Guo, G Tian, SJ Wei, ...",2023,"Near-term quantum computing techniques: Variational quantum algorithms, error mitigation, circuit compilation, benchmarking and classical simulation",Science China Physics …,10.1007/s11433-022-2057-y,Springer
+google_title.csv,1.csv,"ER Bennewitz, F Hopfmueller, B Kulchytskyy, ...",2022,Neural error mitigation of near-term quantum simulations,Nature Machine …,,nature.com
+google_title.csv,1.csv,J Reyes,2022,Neural Network Quantum Error Mitigation for Algorithms on Near-Term Intermediate Scale Quantum Devices,NSF Award Number 2138113. Directorate for …,,ui.adsabs.harvard.edu
+google_title.csv,7.csv,"김보선, 손일권, 배광일, 이원혁",2024,NISQ machine 의 성능 향상을 위한 Qiskit 기반 quantum error mitigation 적용 연구,한국통신학회 학술대회논문집,,dbpia.co.kr
+google_title.csv,4.csv,"D Wang, PJT Rall, EH Chen, SAS TABRIZI, ...",2025,Noise Mitigation in Dynamic Quantum Circuits by Inserting Context-Dependent Dynamical Decoupling Sequences,US Patent App. 18 …,,Google Patents
+google_title.csv,1.csv,"JO del Moral, OS Larrarte, J Fraxanet, ...",2026,Noise mitigation of quantum observables via learning from Hamiltonian symmetry decays,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"A Alagiyawanna, A Karunananda",2026,Noise Models Impacts and Mitigation Strategies in Photonic Quantum Machine Learning,arXiv preprint arXiv:2603.09645,,arxiv.org
+google_title.csv,1.csv,"B Majid, SA Sofi, Z Jabeen",2025,Noise resilient quantum learning: Adaptive policy guided error mitigation in quantum reinforcement learning for the traveling salesman problem,Applied Soft Computing,,Elsevier
+google_title.csv,6.csv,"T Scoquart, H Perrin, K Snizhko",2026,Noise tailoring for error mitigation and for diagnozing digital quantum computers,arXiv preprint arXiv:2601.04830,,arxiv.org
+google_title.csv,1.csv,"M Liao, Y Zhu, G Chiribella, Y Yang",2025,Noise-agnostic quantum error mitigation with data augmented neural models,npj Quantum Information,,nature.com
+google_title.csv,7.csv,"H Xie, N Yoshioka, K Tsubouchi, Y Li",2026,Noise-Agnostic Unbiased Quantum Error Mitigation for Logical Qubits,Physical Review Letters,10.1103/2n23-4qg8,APS
+google_title.csv,7.csv,D Ahn,2023,Non-Markovian cost function for quantum error mitigation with Dirac Gamma matrices representation,Scientific Reports,,nature.com
+google_title.csv,1.csv,J Pérez Guijarro,2026,On quantum supervised learning and learning techniques for quantum error mitigation,,,upcommons.upc.edu
+google_title.csv,7.csv,"D Aharonov, O Alberton, I Arad, Y Atia, E Bairey, ...",2025,On the importance of error mitigation for quantum computation,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,15.csv,R Uzdin,2026,Orders of magnitude runtime reduction in quantum error mitigation,arXiv preprint arXiv:2601.22785,,arxiv.org
+google_title.csv,16.csv,AA Nafee,2026,Performance Analysis of 3D Mesh Simplification Algorithms: QEM vs. Vertex Clustering on CAD and Organic Models,,,researchgate.net
+google_title.csv,4.csv,"I Sitdikov, L Haoran, SAS TABRIZI, ZK Minev, ...",2025,Performing quantum error mitigation at runtime using trained machine learning model,US Patent …,,Google Patents
+google_title.csv,16.csv,"M Veresko, Y Liu, D Hou, MC Cheng",2025,Physics-aware POD-based learning for Ab initio QEM-Galerkin simulations of periodic nanostructures,Computer Physics Communications,,Elsevier
+google_title.csv,1.csv,"XY Xu, X Xue, T Chen, C Ding, T Li, H Zhou, ...",2025,Physics-inspired machine learning for quantum error mitigation,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,10.csv,"N Maruani, M Ovsjanikov, P Alliez…",2024,Ponq: a neural qem-based mesh representation,Proceedings of the …,,openaccess.thecvf.com
+google_title.csv,1.csv,"JO del Moral, JE Martinez, D Mishagli, O Sanz, ...",2024,Projected Lindblad dynamics via Hamiltonian symmetries for Quantum Error Mitigation,,,indico.cern.ch
+google_title.csv,1.csv,"TE O'Brien, G Anselmetti, F Gkritsis, VE Elfving, ...",2023,Purification-based quantum error mitigation of pair-correlated electron simulations,Nature Physics,,nature.com
+google_title.csv,1.csv,"SMA Tousi, GN DeSouza",2025,QAGT-MLP: An Attention-Based Graph Transformer for Small and Large-Scale Quantum Error Mitigation,arXiv preprint arXiv:2511.03119,,arxiv.org
+google_title.csv,1.csv,S Sarkar,2026,"QBalance: A Reproducible Multi-Objective Workflow for Quantum Compilation, Noise Suppression, and Error-Mitigation Strategy Selection",arXiv preprint arXiv:2605.02966,,arxiv.org
+acm_title.csv,1.txt,"Samuel Stein, Nathan Wiebe, Yufei Ding, James Ang, and Ang Li",2023,Q-BEEP: Quantum Bayesian Error Mitigation Employing Poisson Modeling over the Hamming Spectrum,Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA '23),https://doi.org/10.1145/3579371.3589043,
+google_title.csv,1.csv,"HP Patil, D Baron, H Zhou",2025,Q-cluster: quantum error mitigation through noise-aware unsupervised learning,2025 IEEE International …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"T Bao, R Zhong, X Ye, Y Tang, J Yan",2025,QEM-Bench: Benchmarking Learning-based Quantum Error Mitigation and QEMFormer as a Multi-ranged Context Learning Baseline,… on Machine Learning,,openreview.net
+google_title.csv,12.csv,"J Li, R Wang, Y Liu, Q Zhao",2025,QEMesh: Employing A Quadric Error Metrics-Based Representation for Mesh Generation,2025 IEEE International …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"Z Tu, J Xu, X Zhou, Y Zhu, Y Liu, Q Du, ...",2025,QEMOS: a scalable quantum error mitigation method to overcome qubit sensitivity,Machine Learning …,10.1088/2632-2153/ae16fc,iopscience.iop.org
+google_title.csv,1.csv,M Zheng,2024,Quantum Algorithm Implementations and a Classical Look on Quantum Error Mitigation,,,search.proquest.com
+google_title.csv,6.csv,"Y Shingu, T Nikuni, S Kawabata, Y Matsuzaki",2024,Quantum annealing with error mitigation,Physical Review A,10.1103/PhysRevA.109.042606,APS
+google_title.csv,1.csv,"S Stein, N Wiebe, Y Ding, J Ang, A Li",2022,Quantum bayesian error mitigation employing poisson modelling over the hamming spectrum for quantum error mitigation,arXiv preprint arXiv:2207.07237,,arxiv.org
+google_title.csv,1.csv,"G Saxena, TH KYAW",2026,Quantum computing device for error mitigation by restricted evolution and method thereof,"US Patent 12,572,839",,Google Patents
+google_title.csv,10.csv,"G Saxena, TH KYAW",2025,Quantum computing device for hybrid error mitigation by restricted evolution and method thereof,"US Patent App. 18/929,092",,Google Patents
+google_title.csv,1.csv,"V Karthick, A Gayathri",2024,Quantum Computing Error Mitigation Advance in Real-Time Quantum Computer with Novel Quantum Using Superposition and Entanglement of Qubits,Doctoral Symposium on Computational …,10.1007/978-981-97-6036-7_23,Springer
+google_title.csv,1.csv,RM Montgomery,,"Quantum Computing for Chemistry Beyond Toy Molecules: Error Mitigation, Excited States, and Embedding Methods",researchgate.net,,
+google_title.csv,1.csv,"X Su, Z Mao",2026,Quantum computing simulation acceleration and error mitigation method and system based on tensor network topology optimization,Fourth International Conference on Algorithms …,10.1117/12.3108481.short,spiedigitallibrary.org
+google_title.csv,16.csv,AG O'Malley,2024,Quantum EMDR (QEMDR); A guide for EMDR therapists,The Science of Psychotherapy,,artomalley.com
+google_title.csv,1.csv,N Shammah,2025,Quantum Error Control and Mitigation Strategies,Quantum Technologies: Trends and Implications for …,10.1007/978-3-031-90727-2_5,Springer
+google_title.csv,1.csv,O Bhalekar,2026,Quantum Error Correction and Noise Mitigation,Quantum Ops: Bridging Quantum Computing and IT …,10.1007/978-3-032-10775-6_5,Springer
+google_title.csv,1.csv,"Z Cai, R Babbush, SC Benjamin, S Endo, ...",2023,Quantum error mitigation,Reviews of Modern …,10.1103/RevModPhys.95.045005,APS
+google_title.csv,7.csv,DR Pérez,2021,Quantum error mitigation and autonomous correction using dissipative engineering and coupling techniques,,,search.proquest.com
+google_title.csv,1.csv,U Liaubaite,2026,Quantum Error Mitigation and Quantum Error Correction in Near-Term Application,,,repo.uni-hannover.de
+google_title.csv,12.csv,"JF Martin, G Cocco, J Fonollosa",2026,Quantum Error Mitigation at the pre-processing stage,arXiv preprint arXiv:2602.05916,,arxiv.org
+google_title.csv,3.csv,"ND Earnest-Noble, C Tornow, DJ Egger",2024,Quantum error mitigation based on scaled gates,"US Patent 11,928,004",,Google Patents
+google_title.csv,1.csv,"T Li, H Zhang, L Zheng, F Li",2025,Quantum error mitigation based on the Z-mixed-expression of the amplitude damping channel,Chinese Physics B,10.1088/1674-1056/ae067c,iopscience.iop.org
+google_title.csv,12.csv,"O Kaikov, T Saporiti, V Sazonov…",2025,Quantum Error Mitigation by Global Randomized Error Cancellation for Adiabatic Evolution in the Schwinger Model,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"V Leyton-Ortega, S Majumder, ...",2023,Quantum error mitigation by hidden inverses protocol in superconducting quantum devices,Quantum Science and …,10.1088/2058-9565/aca92d,iopscience.iop.org
+google_title.csv,4.csv,"T Saporiti, O Kaikov, V Sazonov, ...",2026,Quantum error mitigation by hierarchy-informed sampling: chiral dynamics in the Schwinger model,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,15.csv,"V Russo, A Mari",2024,Quantum error mitigation by layerwise Richardson extrapolation,Physical Review A,10.1103/PhysRevA.110.062420,APS
+google_title.csv,1.csv,"O Kiss, M Grossi, A Roggero",2025,Quantum error mitigation for Fourier moment computation,Physical Review D,10.1103/PhysRevD.111.034504,APS
+google_title.csv,1.csv,"EC Blessie, B Sundaravadivazhagan, ...",2026,Quantum error mitigation for medical imaging noise reduction using GNNs,"… Networks: GANs, Semi …",,books.google.com
+google_title.csv,4.csv,"V Sazonov, M Tamaazousti",2022,Quantum error mitigation for parametric circuits,Physical Review A,10.1103/PhysRevA.105.042408,APS
+google_title.csv,1.csv,"R Majumdar, PR Ramirez, S MAJUMDER, ...",2026,Quantum error mitigation for probability distributions,US Patent App. 18 …,,Google Patents
+google_title.csv,1.csv,"S Ramadhani, JU Rehman, H Shin",2021,Quantum error mitigation for quantum state tomography,IEEE Access,,ieeexplore.ieee.org
+google_title.csv,1.csv,"S Endo, Y Suzuki, K Tsubouchi, R Asaoka, ...",2025,Quantum error mitigation for rotation-symmetric bosonic codes with symmetry expansion,Physical Review A,10.1103/PhysRevA.111.062402,APS
+google_title.csv,15.csv,"K Liu, Z Cai",2025,Quantum error mitigation for sampling algorithms,arXiv preprint arXiv:2502.11285,,arxiv.org
+google_title.csv,13.csv,"J Raymond, MH Amin, AD King, R Harris, ...",2025,Quantum error mitigation in quantum annealing,npj Quantum …,,nature.com
+springer_title.csv,1.csv,Andrey ZhukovWalter Pogosov,2024,Quantum error mitigation in the regime of high noise using deep neural network: Trotterized dynamics,Quantum Information Processing,10.1007/s11128-024-04296-y,Springer
+google_title.csv,14.csv,"Y Xiong, SX Ng, L Hanzo",2021,Quantum error mitigation relying on permutation filtering,IEEE Transactions on …,,ieeexplore.ieee.org
+google_title.csv,16.csv,"H Kuji, S Endo, T Nikuni, R Hamazaki, ...",2026,Quantum Error Mitigation Simulates General Non-Hermitian Dynamics,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"PNMU Hewage, M Chakkravarthy, ...",2026,Quantum Error Mitigation Strategies for Variational PDE-Constrained Circuits on Noisy Hardware,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"Z Zhao, ER Kjellgren, S Coriani, J Kongsted, ...",2025,Quantum error mitigation using energy sampling and extrapolation enhanced Clifford data regression,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,11.csv,"C Piveteau, D Sutter, S Woerner",2025,Quantum error mitigation using hardware-friendly probabilistic error correction,"US Patent 12,443,868",,Google Patents
+google_title.csv,4.csv,Z Cai,2021,Quantum error mitigation using symmetry expansion,Quantum,,quantum-journal.org
+google_title.csv,1.csv,"XD Lin, HM Chang, JS You, ...",2025,Quantum Error Mitigation via Autoencoder Neural Networks,2025 IEEE International …,,ieeexplore.ieee.org
+google_title.csv,1.csv,C Kim,2021,Quantum error mitigation via machine learning,,,koasas.kaist.ac.kr
+google_title.csv,1.csv,"Y Guo, S Yang",2022,Quantum error mitigation via matrix product operators,PRX Quantum,10.1103/PRXQuantum.3.040313,APS
+google_title.csv,1.csv,"Y Hama, H Nishi",2024,Quantum error mitigation via quantum-noise-effect circuit groups,Scientific Reports,,nature.com
+google_title.csv,1.csv,"SMA Tousi, A Bazgir, Y Zhang, GN DeSouza",2025,Quantum Error Mitigation with Attention Graph Transformers for Burgers Equation Solvers on NISQ Hardware,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"A Hulák, V Lipardi, D Dibenedetto, K Driessens",,Quantum Error Mitigation with Deep Learning and Sequence Models,bnaic2024.sites.uu.nl,,
+google_title.csv,1.csv,"RT de Abreu Pinho, MP Quiñones, ...",2026,Quantum error mitigation with diffusion models,US Patent App. 18 …,,Google Patents
+google_title.csv,7.csv,"김보선, 손일권, 배광일, 이원혁",2024,Quantum Error Mitigation 을 위한 Qiskit 기반 Zero Noise Extrapolation Factor 관한 연구,한국통신학회 학술대회논문집,,dbpia.co.kr
+google_title.csv,1.csv,"S Liu, H Lim, J Choi, P Castillo, ...",2024,Quantum error mitigations for quantum approximate optimization algorithms on IBM quantum processors,… and Quantum Imaging …,10.1117/12.3030458.short,spiedigitallibrary.org
+google_title.csv,1.csv,"W Oliver, S Lloyd, D Rosenberg, M O'Keeffe, ...",2023,Quantum measurement emulation error mitigation protocol for quantum computing,US Patent …,,Google Patents
+google_title.csv,1.csv,"C Lindner, J Hämäläinen, M Raasakka",2025,Quantum Minimal Learning Machine: A Fidelity-Based Approach to Error Mitigation,International Conference on …,10.1007/978-3-032-13852-1_30,Springer
+google_title.csv,1.csv,"R Palanivel, P Muthulakshmi",,Quantum Multi-Agent Learning (QMAL) Algorithm for Error Mitigation and Priority Scaling to Optimize Reinforcement Learning in Distributed Environments,researchgate.net,,
+acm_title.csv,17.txt,"Betis Baheri, Vipin Chaudhary, Ang Li, Shuai Xu, Bo Fang, and Qiang Guan",2023,Quantum Noise Mitigation: Introducing the Robust Quantum Circuit Scheduler for Enhanced Fidelity and Throughput,Proceedings of the 2023 International Workshop on Quantum Classical Cooperative (QCCC '23),https://doi.org/10.1145/3588983.3596688,
+google_title.csv,1.csv,KS RAO,,Quantum Noise-Aware AI for Adaptive Error Mitigation in Near-Term Quantum-Classical Hybrid Workflows,researchgate.net,,
+google_title.csv,7.csv,GLR Anselmetti,2023,Quantum number preserving ansätze and error mitigation studies for the variational quantum eigensolver,,,kups.ub.uni-koeln.de
+google_title.csv,1.csv,"S Bravyi, JM Gambetta, DC McKay, ...",2022,Quantum readout error mitigation by stochastic matrix inversion,US Patent …,,Google Patents
+google_title.csv,1.csv,"J Kim, B Oh, Y Chong, E Hwang, ...",2022,Quantum readout error mitigation via deep learning,New Journal of …,10.1088/1367-2630/ac7b3d,iopscience.iop.org
+google_title.csv,1.csv,"G Saxena, JS Baker, PD Valle, WE Salazar, ...",2025,Quantum Resilience: Canadian Innovations in Quantum Error Correction and Quantum Error Mitigation,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,TK Njoku,2025,"Quantum software engineering: algorithm design, error mitigation, and compiler optimization for fault-tolerant quantum computing",Int J Comput Appl Technol Res,,researchgate.net
+google_title.csv,7.csv,"BIC Donvil, R Lechler, J Ankerhold, ...",2025,Quantum trajectory approach to error mitigation,Physical Review A,10.1103/PhysRevA.111.042619,APS
+google_title.csv,12.csv,"S Choi, TA Chowdhury, K Yu",2026,Quantum Utility-scale error mitigation for quantum quench dynamics in Heisenberg spin chains,Physica Scripta,10.1088/1402-4896/ae37a8,iopscience.iop.org
+google_title.csv,5.csv,"D Baron, HP Patil, H Zhou",2024,Qubit-wise majority vote: Maximum likelihood quantum error mitigation for algorithms with a single correct output,2024 IEEE International …,,ieeexplore.ieee.org
+google_title.csv,1.csv,P Arcaini,2025,QUIET: A Tool for Sampling-Based Quantum Noise Error Mitigation,,,web-backend.simula.no
+google_title.csv,1.csv,"R Rahman, DC Nguyen",,Readout Noise Mitigation with Bayesian Methods for Quantum Neural Networks,openreview.net,,
+google_title.csv,1.csv,"M Robbiati, A Sopena, A Papaluca, S Carrazza",2026,Real-time error mitigation for variational optimization on quantum hardware,Physical Review Research,10.1103/zyb2-zl2d,APS
+google_title.csv,5.csv,"T Hartung, S Schuster, J von Zanthier, ...",2024,Real-time measurement error mitigation for one-way quantum computation,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,3.csv,Y Kim,2024,Recent experimental progress on quantum error mitigation for large quantum circuits,Quantum Days,,research.ibm.com
+google_title.csv,1.csv,"KH Kim, JK Cho",2026,Reliability assessment of variational quantum neural networks under noise models and error-mitigation strategies in the NISQ regime,Journal of the Korean Physical Society,10.1007/s40042-026-01581-0,Springer
+google_title.csv,5.csv,"D Aharonov, O Alberton, I Arad, Y Atia, E Bairey, ...",2025,Reliable high-accuracy error mitigation for utility-scale quantum circuits,arXiv preprint arXiv …,,arxiv.org
+acm_title.csv,1.txt,Hristo Djidjev,2024,Replication-Based Quantum Annealing Error Mitigation,Proceedings of the 21st ACM International Conference on Computing Frontiers (CF '24),https://doi.org/10.1145/3649153.3649200,
+google_title.csv,1.csv,J Lin,2023,"Representation, Characterization, and Mitigation of Noise in Quantum Processors",,,uwspace.uwaterloo.ca
+google_title.csv,15.csv,"Y Zhang, Z Wu, Q Li, Z Yang",,Research on Point Cloud Simplification Algorithm for Ring Forgings Based on Gsa-Voronoi and Qem,Available at SSRN 4689111,,papers.ssrn.com
+google_title.csv,14.csv,"L Li, Z Xu, F Li, Y Wan, S Gao",2022,Reservoir Characterization of Carbonate in Middle East by QEMSCAN Automated Petrography,International Field Exploration and …,10.1007/978-981-99-1964-2_133,Springer
+google_title.csv,1.csv,"N Dicaire, G Hartnett, H Liao, A Kakkar, Y Baum",,Resource efficient transfer learning approach for error mitigation of quantum circuits at scale,,,
+google_title.csv,1.csv,"S Mummadi, A Chada, C Karthik",2023,Revolutionizing efficiency: a novel strategy for quantum noise mitigation,International Conference on …,10.1007/978-981-97-2053-8_6,Springer
+google_title.csv,1.csv,"M Prodius, P Czarnik, M McKerns, ...",2026,Robust design under uncertainty in quantum error mitigation,IEEE Transactions …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"MMA Naved, W Xie, ...",2026,Robust Integrated Learning and Pauli Noise Mitigation for Parametrized Quantum Circuits,Advances in Neural …,,proceedings.neurips.cc
+google_title.csv,2.csv,J Kang,2025,"Robust Quantum Inference: Latent Variable Modeling for MNAR, Noise Mitigation, and Quantum Causality","Noise Mitigation, and Quantum Causality (December …",,papers.ssrn.com
+google_title.csv,1.csv,"JRM Njiki, N Innan, A Marchisio, M Kashif, ...",2026,Robustness Evaluation of Hybrid Quantum Neural Networks under Noise Models via System-Level Error Mitigation,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"WY Liao, G Yan, Y Song, TC Tian, WM Zhu, ...",2025,Sample-efficient quantum error mitigation via classical learning surrogates,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,5.csv,"SN Filippov, S Maniscalco, G García-Pérez",2024,Scalability of quantum error mitigation techniques: from utility to advantage,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"Y Kim, CJ Wood, TJ Yoder, ST Merkel, JM Gambetta, ...",2023,Scalable error mitigation for noisy quantum circuits produces competitive expectation values,Nature Physics,,nature.com
+google_title.csv,1.csv,"P Döbler, J Pflieger, F Jin, H De Raedt, ...",2024,Scalable general error mitigation for quantum circuits,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"PD Nation, H Kang, N Sundaresan, JM Gambetta",2021,Scalable mitigation of measurement errors on quantum computers,PRX Quantum,10.1103/PRXQuantum.2.040326,APS
+google_title.csv,1.csv,"Z Chen, B Cheng, M Gao, X Lin, R Zhang, ...",2025,Scalable Quantum Error Mitigation with Neighbor-Informed Learning,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,15.csv,"W Ni, Z Li, G Qu, Z Sun, J Dai, F Shi, L Sun",2025,Scalable quantum error mitigation with phase-cycled dynamical decoupling,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"H Wang, X Wu, J Liu, R He, J Shang, H Guo, ...",2026,Scalable Quantum Error Mitigation with Physically Informed Graph Neural Networks,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"C Lee, DK Park",2023,Scalable quantum measurement error mitigation via conditional independence and transfer learning,Machine Learning: Science and Technology,10.1088/2632-2153/ad1007,iopscience.iop.org
+google_title.csv,5.csv,"S Filippov, M Leahy, MAC Rossi, ...",2023,Scalable tensor-network error mitigation for near-term quantum computing,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,1.csv,"M McKerns, PJ Czarnik, TG O'Leary, AT Sornborger, ...",2024,"scientific ML, AI, and UQ, with applications to quantum error mitigation",,,osti.gov
+google_title.csv,7.csv,"A Seif, ZP Cian, S Zhou, S Chen, L Jiang",2023,Shadow distillation: Quantum error mitigation with classical shadows for near-term quantum processors,PRX Quantum,10.1103/PRXQuantum.4.010303,APS
+google_title.csv,1.csv,"A Sopena, MH Gordon, G Sierra, ...",2021,Simulating quench dynamics on a digital quantum computer with data-driven error mitigation,Quantum Science & …,10.1088/2058-9565/ac0e7a,iopscience.iop.org
+google_title.csv,1.csv,K Wang,2025,"Simulation-Based Algorithms for Open Quantum Systems Learning, Control and Error Mitigation",,,search.proquest.com
+google_title.csv,1.csv,"CY Hsieh, HY Tsai, YH Lu, ...",2023,Small sampling overhead error mitigation for quantum circuits,IEEE Transactions on …,,ieeexplore.ieee.org
+acm_title.csv,1.txt,"Hanyu Zhang, Liqiang Lu, Siwei Tan, Size Zheng, Jia Yu, and Jianwei Yin",2024,SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation,Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC '24),https://doi.org/10.1145/3649329.3655675,
+google_title.csv,1.csv,"A Sayar, ŞŞ Arslan, T Cakar",2022,SSQEM: Semi-supervised quantum error mitigation,2022 7th International …,,ieeexplore.ieee.org
+google_title.csv,13.csv,"K Chandramouli, KM Allen, C Mori, ...",2025,Statistical Signal Processing for Quantum Error Mitigation,2025 IEEE …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"K Chiv, L Hour, S Lee, T Kit, TK Kim, Y Han",2025,Strategies for Noise-Resilient Quantum Approximate Optimization Algorithms: A Review and Classification of Error Mitigation,IEEE Access,,ieeexplore.ieee.org
+google_title.csv,7.csv,"P Vikstål, G Ferrini, S Puri",2024,Study of noise in virtual distillation circuits for quantum error mitigation,Quantum,,quantum-journal.org
+google_title.csv,15.csv,"K Tsubouchi, Y Mitsuhashi, K Sharma…",2025,Symmetric Clifford twirling for cost-optimal quantum error mitigation in early FTQC regime,npj Quantum …,,nature.com
+google_title.csv,4.csv,"T Kurita, H Qassim, M Ishii, H Oshima, S Sato, ...",2022,Synergetic quantum error mitigation by randomized compiling and zero-noise extrapolation for the variational quantum eigensolver,arXiv preprint arXiv …,,arxiv.org
+google_title.csv,11.csv,"Y Zhu, S Niu, D Wu",2024,"Synergizing Error Suppression, Mitigation and Correction for Fault-Tolerant Quantum Computing","… Conference on Trust, Privacy and Security …",,ieeexplore.ieee.org
+google_title.csv,1.csv,"S Cantori, A Mari, D Vitali, S Pilati",2024,Synergy between noisy quantum computers and scalable classical deep learning for quantum error mitigation,EPJ Quantum Technology,10.1140/epjqt/s40507-024-00256-8,Springer
+ieee_title.csv,17.csv,A. Modi; A. V. Jasso; R. Ferrara; C. Deppe; J. Nötzel; F. Fung; M. Schädler,2023,Testing of Hybrid Quantum-Classical K-Means for Nonlinear Noise Mitigation,GLOBECOM 2023 - 2023 IEEE Global Communications Conference,10.1109/GLOBECOM54140.2023.10437586,IEEE
+google_title.csv,7.csv,"V Russo, A Mari, N Shammah, ...",2023,Testing platform-independent quantum error mitigation on noisy quantum computers,IEEE Transactions on …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"Y Xiong, SX Ng, L Hanzo",2022,The accuracy vs. sampling overhead trade-off in quantum error mitigation using Monte Carlo-based channel inversion,IEEE Transactions on …,,ieeexplore.ieee.org
+ieee_title.csv,17.csv,Y. Likhar; A. S. Rathore,2026,"The Qiskit Ecosystem: A Theoretical Analysis of Quantum Circuit Transpilation, Noise Modeling and Error Mitigation",2026 13th International Conference on Computing for Sustainable Global Development (INDIACom),10.23919/INDIACom70271.2026.11525815,IEEE
+google_title.csv,1.csv,"A Muqeet, S Ali, P Arcaini",2025,Tool: QUIET: A Tool for Sampling-Based Quantum Noise Error Mitigation,IEEE Software,,ieeexplore.ieee.org
+google_title.csv,15.csv,S Chen,2025,"Topics in Pauli Channel Learning: Quantum Advantages, Quantum Noise Characterization, and Quantum Error Mitigation",,,knowledge.uchicago.edu
+google_title.csv,7.csv,"JD Guimarães, C Tavares",2022,Towards a layered architecture for error mitigation in quantum computation,2022 IEEE International …,,ieeexplore.ieee.org
+google_title.csv,15.csv,K König,2026,"Towards fault-tolerant quantum computing: advanced techniques for error reduction, mitigation and their applications",,,freidok.uni-freiburg.de
+google_title.csv,1.csv,"ZX Shang, ZH Chen, CS Cheng",2024,Unconditionally decoherence-free quantum error mitigation by density matrix vectorization,arXiv preprint arXiv:2405.07592,,arxiv.org
+google_title.csv,1.csv,"A Lowe, MH Gordon, P Czarnik, A Arrasmith, ...",2021,Unified approach to data-driven quantum error mitigation,Physical Review …,10.1103/PhysRevResearch.3.033098,APS
+google_title.csv,1.csv,"D Bultrini, MH Gordon, P Czarnik, A Arrasmith, ...",2023,Unifying and benchmarking state-of-the-art quantum error mitigation techniques,Quantum,,quantum-journal.org
+google_title.csv,11.csv,"M Gu, MI Michael",2023,Universal Sampling Lower Bounds for Quantum Error Mitigation,,,academia.edu
+google_title.csv,3.csv,"C Alexandrou, L Funcke, T Hartung, ...",2021,Using classical bit-flip correction for error mitigation in quantum computations including 2-qubit correlations,arXiv preprint arXiv …,,repository.cyi.ac.cy
+google_title.csv,16.csv,Z Kensert Forsman,2025,Using FLIP to Evaluate Perceptual Quality of Industrial Robot Models Simplified by a QEM-Based Method,,,diva-portal.org
+google_title.csv,3.csv,"A MAKSYMOV, JH Van NGUYEN, ...",2024,Utilizing computational symmetries for error mitigation in quantum computations,US Patent App. 18 …,,Google Patents
+google_title.csv,1.csv,"D Wang, H ZHANG, S MAJUMDER, ...",2026,Validation and Optimization of Quantum Error Mitigation Workflows,US Patent App. 18 …,,Google Patents
+google_title.csv,1.csv,"GS Ravi, KN Smith, P Gokhale, A Mari, ...",2022,Vaqem: A variational approach to quantum error mitigation,… symposium on high …,,ieeexplore.ieee.org
+google_title.csv,1.csv,"E Garate, P San Sebastian, G Valverde, ...",2024,Variational Quantum Regression on NISQ Hardware with Error Mitigation,2024 Artificial …,,ieeexplore.ieee.org
+google_title.csv,11.csv,"SX Zhang, ZQ Wan, CY Hsieh, H Yao…",2023,Variational Quantum‐Neural Hybrid Error Mitigation,Advanced Quantum …,10.1002/qute.202300147,Wiley Online Library
+google_title.csv,1.csv,"S Dangwal, GS Ravi, P Das, KN Smith, ...",2023,Varsaw: Application-tailored measurement error mitigation for variational quantum algorithms,Proceedings of the 28th …,10.1145/3623278.3624764,dl.acm.org
+google_title.csv,7.csv,"WJ Huggins, S McArdle, TE O'Brien, J Lee, NC Rubin, ...",2021,Virtual distillation for quantum error mitigation,Physical Review X,10.1103/PhysRevX.11.041036,APS
