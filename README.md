@@ -6,10 +6,10 @@ Literature selection data for a systematic review on AI-based **Quantum Error Mi
 
 ```
 prisma/
-├── 01 keyword_search/      S1.csv  — raw search results (n = 23,314)
-├── 02 title_check/ S2.csv — titles matching the QEM/QNM term pattern (n = 1,646)
-├── 03 duplicate_removal/   S3.csv — duplicates within and across databases removed (n = 286)
-└── 04 fulltext_screening/  S4.csv  — final included set (n = 28)
+├── 01_keyword_search/      S1.csv  — raw search results (n = 23,314)
+├── 02_title_check/ S2.csv — titles matching the QEM/QNM term pattern (n = 1,646)
+├── 03_duplicate_removal/   S3.csv — duplicates within and across databases removed (n = 286)
+└── 04_fulltext_screening/  S4.csv  — final included set (n = 28)
 figs/
 └── prisma_flow.png
 ```
@@ -52,13 +52,13 @@ The four selection stages above map to the standard PRISMA phases. The figure be
 | Identification | S1 — Keyword search | `01 keyword_search/S1.csv` |
 | Screening | S2 — Title check | `02 title_check/S2.csv` |
 | Screening | S3 — Duplicate removal | `03 duplicate_removal/S3.csv` |
-| Eligibility / Included | S4 — Full-text review | `04 fulltext_screening/S4.csv` |
+| Eligibility / Included | S4 — Full-text review | `04_fulltext_screening/S4.csv` |
 
 Each CSV contains the records that survived the corresponding step.
 
 ## 4) Final inclusion criteria
 
-The records in `04 abstract_analysis/S4.csv` represent the final set after full-text review. A study was included only if it met all four:
+The records in `04_fulltext_screening/S4.csv` represent the final set after full-text review. A study was included only if it met all four:
 
 1. Written in English and published in a peer-reviewed journal or conference.
 2. Is a full paper — short papers (≤ 4 pages excluding references), abstracts, posters, and workshop papers were excluded. Workshop papers were identified from the manuscript header or venue information.
