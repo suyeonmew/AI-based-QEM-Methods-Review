@@ -6,8 +6,8 @@ Literature selection data for a systematic review on AI-based **Quantum Error Mi
 
 ```
 prisma/
-├── 01_keyword_search/      S1.csv  — raw search results (n = 23,314)
-├── 02_title_check/ S2.csv — titles matching the QEM/QNM term pattern (n = 1,646)
+├── 01_keyword_search/      S1.xlsx  — raw search results (n = 23,314)
+├── 02_title_check/ S2.xlsx — titles matching the QEM/QNM term pattern (n = 1,646)
 ├── 03_duplicate_removal/   S3.csv — duplicates within and across databases removed (n = 286)
 └── 04_fulltext_screening/  S4.csv  — final included set (n = 28)
 figs/
@@ -49,8 +49,8 @@ The four selection stages above map to the standard PRISMA phases. The figure be
 
 | PRISMA phase | Stage | Output |
 |---|---|---|
-| Identification | S1 — Keyword search | `01 keyword_search/S1.csv` |
-| Screening | S2 — Title check | `02 title_check/S2.csv` |
+| Identification | S1 — Keyword search | `01 keyword_search/S1.xlsx` |
+| Screening | S2 — Title check | `02 title_check/S2.xlsx` |
 | Screening | S3 — Duplicate removal | `03 duplicate_removal/S3.csv` |
 | Eligibility / Included | S4 — Full-text review | `04_fulltext_screening/S4.csv` |
 
